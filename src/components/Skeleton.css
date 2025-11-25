@@ -1,0 +1,4 @@
+.skeleton {
+  width: var(--skeleton-width, 100%);
+  height: var(--skeleton-height, 100%);
+}
